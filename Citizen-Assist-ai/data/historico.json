@@ -1,0 +1,212 @@
+[
+  {
+    "data": "2026-11-19 00:27:38",
+    "origem": "pergunta",
+    "pergunta": "Como fazer o cartão do SUS?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 26.3
+  },
+  {
+    "data": "2026-11-19 18:11:39",
+    "origem": "pergunta",
+    "pergunta": "Como me alistar?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 27.9
+  },
+  {
+    "data": "2026-11-19 18:12:05",
+    "origem": "pergunta",
+    "pergunta": "Como posso conseguir um bom estagio?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 26.1
+  },
+  {
+    "data": "2026-11-19 18:12:54",
+    "origem": "pergunta",
+    "pergunta": "Eu tenho uma carteira de trabalho online ela funciona igual a fisica?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 48.8
+  },
+  {
+    "data": "2026-11-19 18:13:45",
+    "origem": "pergunta",
+    "pergunta": "Eu tenho cidania espanhola e gostaria de tirar uma outra cidadania depois mas também europeia, tem problema?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 51.2
+  },
+  {
+    "data": "2026-11-19 18:14:09",
+    "origem": "pergunta",
+    "pergunta": "quero tirar cidadania cm faço?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 23.5
+  },
+  {
+    "data": "2026-11-19 18:14:28",
+    "origem": "pergunta",
+    "pergunta": "Como tiro a cidadania?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 19.3
+  },
+  {
+    "data": "2026-11-19 18:15:20",
+    "origem": "pergunta",
+    "pergunta": "Estou muito querendo um trabalho oque me recomenda?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 51.7
+  },
+  {
+    "data": "2026-11-19 18:15:40",
+    "origem": "pergunta",
+    "pergunta": "Como arrajar um trabalho?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 20.0
+  },
+  {
+    "data": "2026-11-19 18:16:13",
+    "origem": "pergunta",
+    "pergunta": "Que documentos presciso para tirar a cidadania?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 33.3
+  },
+  {
+    "data": "2026-11-19 18:17:00",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Cidadania] Alistamento militar obrigatorio",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.1
+  },
+  {
+    "data": "2026-11-19 21:49:57",
+    "origem": "pergunta",
+    "pergunta": "Como tirar o cartão do sus?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.7
+  },
+  {
+    "data": "2026-11-19 21:50:14",
+    "origem": "pergunta",
+    "pergunta": "Como abrir uma mei",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 11.5
+  },
+  {
+    "data": "2026-11-19 21:51:04",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Cidadania] Tirar o Titulo de Eleitor",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 6.0
+  },
+  {
+    "data": "2026-11-19 21:51:11",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Cidadania] Alistamento militar obrigatorio",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 6.7
+  },
+  {
+    "data": "2026-11-19 21:51:48",
+    "origem": "pergunta",
+    "pergunta": "Ond eu tiro cetrificado de dispensa",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 15.0
+  },
+  {
+    "data": "2026-11-19 21:54:01",
+    "origem": "pergunta",
+    "pergunta": "Onde eu tiro certificado de Dispensa?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 45.5
+  },
+  {
+    "data": "2026-11-19 22:32:25",
+    "origem": "pergunta",
+    "pergunta": "Como tirar o cartão do sus",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 15.0
+  },
+  {
+    "data": "2026-11-19 22:32:41",
+    "origem": "pergunta",
+    "pergunta": "Como abrir uma MEi?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 15.8
+  },
+  {
+    "data": "2026-11-19 22:33:41",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Documentos] Criar ou aumentar o nivel da conta Gov.br",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.2
+  },
+  {
+    "data": "2026-11-19 22:33:48",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Trabalho] Como funciona o programa Jovem Aprendiz",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.7
+  }
+]

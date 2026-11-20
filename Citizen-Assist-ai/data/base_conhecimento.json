@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Trabalho",
+    "titulo": "Emitir a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps", "trabalho digital", "primeiro emprego"],
+    "resposta": "A Carteira de Trabalho Digital e emitida automaticamente apos o primeiro registro em contrato ou pode ser acessada pelo app Carteira de Trabalho Digital e site Gov.br.",
+    "documentos": ["CPF", "Conta Gov.br (nivel prata ou ouro)"],
+    "onde": "App Carteira de Trabalho Digital, portal Gov.br ou unidades do Ministerio do Trabalho / Poupatempo",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 2,
+    "categoria": "Trabalho",
+    "titulo": "Como funciona o programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendizagem", "menor aprendiz", "vaga aprendiz"],
+    "resposta": "O Jovem Aprendiz combina formacao tecnico-profissional com trabalho em empresas de medio e grande porte, com contrato especial e direitos trabalhistas.",
+    "documentos": ["RG ou documento com foto", "CPF", "Comprovante de escolaridade ou matricula"],
+    "onde": "Sites de empresas, instituicoes formadoras (como CIEE, Senai, Senac) e Portal Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "categoria": "Trabalho",
+    "titulo": "Vagas de estagio para estudantes",
+    "palavras_chave": ["estagio", "estagiario", "bolsa estagio", "contrato de estagio"],
+    "resposta": "O estagio e voltado a estudantes regularmente matriculados e exige Termo de Compromisso de Estagio (TCE) assinado entre escola, empresa e estudante.",
+    "documentos": ["RG e CPF", "Comprovante de matricula escolar", "Declaracao de escolaridade"],
+    "onde": "Nucleos de integracao (como CIEE e NUBE), portais de vagas e instituicao de ensino",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Direitos basicos no primeiro contrato CLT",
+    "palavras_chave": ["clt", "direitos trabalhistas", "ferias", "decimo terceiro", "fgts"],
+    "resposta": "Quem trabalha com carteira assinada (CLT) tem direito a salario minimo ou piso da categoria, vale-transporte, FGTS, ferias remuneradas e decimo terceiro.",
+    "documentos": ["Carteira de Trabalho (CTPS)", "Documento de identidade", "Comprovante de residencia"],
+    "onde": "Orientacoes oficiais no portal Gov.br ou Ministerio do Trabalho",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Emitir ou atualizar o CPF",
+    "palavras_chave": ["cpf", "cadastro de pessoa fisica", "segunda via cpf", "regularizar cpf"],
+    "resposta": "O CPF pode ser consultado, inscrito ou regularizado pelos canais digitais da Receita Federal ou em unidades de atendimento presencial.",
+    "documentos": ["Documento de identidade com foto", "Certidao de nascimento ou casamento (se aplicavel)"],
+    "onde": "Site da Receita Federal, app Meu CPF ou unidades de atendimento conveniadas",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Nova Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": ["rg", "identidade", "cin", "carteira de identidade"],
+    "resposta": "A Carteira de Identidade Nacional (CIN) unifica a identificacao usando o numero do CPF e pode ser emitida em formato fisico e digital.",
+    "documentos": ["Certidao de nascimento ou casamento", "CPF regularizado", "Comprovante de endereco (quando solicitado)"],
+    "onde": "Poupatempo, unidades de identificacao civil do estado ou agendamento oficial",
+    "fonte": "https://www.gov.br/governodigital",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 7,
+    "categoria": "Documentos",
+    "titulo": "Criar ou aumentar o nivel da conta Gov.br",
+    "palavras_chave": ["gov br", "conta gov", "nivel prata", "nivel ouro"],
+    "resposta": "A conta Gov.br permite acessar servicos publicos digitais. O nivel prata ou ouro aumenta a seguranca por meio de biometria facial ou bancos credenciados.",
+    "documentos": ["CPF", "Documento com foto ou acesso a aplicativo bancario habilitado"],
+    "onde": "App Gov.br no celular ou site gov.br",
+    "fonte": "https://www.gov.br/governodigital",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o Titulo de Eleitor",
+    "palavras_chave": ["titulo de eleitor", "eleitor", "alistamento eleitoral", "justica eleitoral"],
+    "resposta": "O alistamento eleitoral e obrigatorio a partir dos 18 anos e facultativo para jovens de 16 e 17 anos. Pode ser iniciado online pela Justica Eleitoral.",
+    "documentos": ["Documento oficial de identidade com foto", "Comprovante de residencia", "Comprovante de quitacao militar (homens a partir de 18 anos)"],
+    "onde": "Portal do Tribunal Superior Eleitoral (TSE) / Autoatendimento do Eleitor ou cartorio eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 9,
+    "categoria": "Cidadania",
+    "titulo": "Alistamento militar obrigatorio",
+    "palavras_chave": ["alistamento militar", "exercito", "cam", "reservista", "servico militar", "certificado de dispensa"],
+    "resposta": "Brasileiros do sexo masculino devem fazer o alistamento militar no ano em que completam 18 anos, pela internet ou na Junta de Servico Militar.",
+    "documentos": ["Certidao de nascimento ou RG", "CPF", "Comprovante de residencia"],
+    "onde": "Site Alistamento Militar (Gov.br) ou Junta de Servico Militar do municipio",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 10,
+    "categoria": "Cidadania",
+    "titulo": "Fazer o Cartao Nacional de Saude (Cartao SUS)",
+    "palavras_chave": ["cartao sus", "sus", "cns", "cartao do sus"],
+    "resposta": "O Cartao SUS identifica o usuario nos servicos de saude publicos e pode ser consultado ou emitido no app Meu SUS Digital ou em uma UBS.",
+    "documentos": ["Documento de identidade com foto", "CPF"],
+    "onde": "Qualquer Unidade Basica de Saude (UBS) ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-10"
+  }
+]

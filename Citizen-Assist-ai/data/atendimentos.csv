@@ -1,0 +1,18 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19 00:27:38,pergunta,Como fazer o cartão do SUS?,10,True,True,1,26.3
+2026-11-19 18:11:39,pergunta,Como me alistar?,,False,False,1,27.9
+2026-11-19 18:12:05,pergunta,Como posso conseguir um bom estagio?,3,True,True,1,26.1
+2026-11-19 18:12:54,pergunta,Eu tenho uma carteira de trabalho online ela funciona igual a fisica?,1,True,True,1,48.8
+2026-11-19 18:13:45,pergunta,"Eu tenho cidania espanhola e gostaria de tirar uma outra cidadania depois mas também europeia, tem problema?",,False,False,1,51.2
+2026-11-19 18:14:09,pergunta,quero tirar cidadania cm faço?,,False,False,1,23.5
+2026-11-19 18:14:28,pergunta,Como tiro a cidadania?,,False,False,1,19.3
+2026-11-19 18:15:20,pergunta,Estou muito querendo um trabalho oque me recomenda?,,False,False,1,51.7
+2026-11-19 18:15:40,pergunta,Como arrajar um trabalho?,,False,False,1,20.0
+2026-11-19 18:16:13,pergunta,Que documentos presciso para tirar a cidadania?,,False,False,1,33.3
+2026-11-19 18:17:00,categoria,[Categoria: Cidadania] Alistamento militar obrigatorio,9,True,True,1,10.1
+2026-11-19 21:49:57,pergunta,Como tirar o cartão do sus?,10,True,True,1,12.7
+2026-11-19 21:50:14,pergunta,Como abrir uma mei,,False,False,1,11.5
+2026-11-19 21:51:04,categoria,[Categoria: Cidadania] Tirar o Titulo de Eleitor,8,True,True,1,6.0
+2026-11-19 21:51:11,categoria,[Categoria: Cidadania] Alistamento militar obrigatorio,9,True,True,1,6.7
+2026-11-19 21:51:48,pergunta,Ond eu tiro cetrificado de dispensa,,False,False,1,15.0
+2026-11-19 21:54:01,pergunta,Onde eu tiro certificado de Dispensa?,9,True,True,1,45.5
